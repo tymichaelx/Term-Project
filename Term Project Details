@@ -1,0 +1,67 @@
+Term Project Details
+
+Setting:
+The College of Arts and Sciences is a fast-growing entity at the University of Diploma Printing in Romanigstan. Within
+this College, the Department of Arts consists of twelve full-time faculty, six adjunct instructors, and approximately
+fifteen graduate teaching assistants. Many faculties are nationally and internationally renowned and are
+well-established professional artists and designers with numerous exhibitions, commissions, and awards to their credit.
+The Department currently has 240 undergraduate majors within its BA and BFA programs spanning a number of areas
+including art of walking, retail floristry, puppetry, adventure recreation, fishing sciences, ant nesting habits, coin
+slot technology, and turfgrass management. It offers approximately 50 different courses to art and non-art majors alike.
+In addition, art education students enroll in a significant number of art courses for their Bachelor of Science in Art
+Education degree offered cooperatively through the Department of Learning, Teaching, and Curriculum.
+
+You, as a new faculty in the Department of Arts, were assigned to the huge task of reviewing and redesigning the BFA
+curriculum. Your help is needed for the following reasons:
+    - Stagnant enrollment in the last five years
+    - Changes in student demographics and interests.
+    - Shifts in disciplinary approaches
+
+The main tasks of curriculum redesign are
+    - Reducing the number of credit hours from 39 to 33 (39 credits is for 7 core courses and 6 elective courses)
+    - Defining concentration areas for elective courses
+    - Reducing the number of offered electives
+
+To evaluate the opportunity of grouping elective classes in concentration areas, the chair of the committee provided you
+ with the following pieces of information (click the links to access the data)
+
+    - List of current courses offered
+    - List of all student enrollments for the last five yearsDownload List of all student enrollments for the last five years
+
+Project Problem
+    1. What elective courses should be retained in the course offerings?
+    2. Recommend sets of three or four elective courses that can be grouped in concentration areas.
+
+Project Milestones
+    - Lesson 5: draft submission - business and data understanding, identifying all issues with the data (Don't count towards final grades.)
+    - Lesson 9: draft submission – data cleaning, data preprocessing, and first data mining attempts (Don't count towards final grades)
+    - Lesson 14: final submission
+
+Notes
+    - Your answers should be based on analyzing the provided data.
+    - Explain your answer and support them by results and/or screen captures.
+    - Try to follow the Guidelines for Data Mining Experiments from your term project.
+
+Structure
+    Section 1: Objectives of the experiment, problem definition
+    Section 2: Description the dataset and initial preprocessing if any
+    Section 3: Preprocessing, including an explanation of the necessity of the preprocessing task and quantitative report on the result of each step.
+    Section 4: Modeling, including a brief description and the motivation of the application of each algorithm
+    Section 5: Evaluation, including graphs of experiments, result tables, and explanation of the results
+    Section 6: Summary of results, including discussion of the overall performance, limitations, and difficulties encountered. Also, add a paragraph about conclusions.
+
+Scoring
+Scoring will be based on:
+    Draft submissions (5%)
+    Format: IEEE ConferenceLinks to an external site. (10%)
+    Appropriateness and correctness of experiment (60%)
+    Discussion (20%)
+    Conclusions (10%)
+    Particularly good discussions may result in 2% extra credit.
+
+Keys to Success
+    Spend some time to understand the subject and the data.
+    Follow the steps in the CRISP method as described in the first lesson.
+    Look for patterns in the data. Formulate hypotheses and try to prove or disprove them through experiments.
+    Make sure you follow citation style and avoid plagiarizing other sources.
+    Use charts to support your claims; do not provide screenshots of experiments. Explain in depth each chart/figure used.
