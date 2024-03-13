@@ -1,5 +1,5 @@
 ProjectData Courses
-Course #	Course Name 
+Course #	Course Name
 ARTS 400	EXPERIMENTAL WRITING SEM: The Ecology of Poetry
 ARTS 401	ART: ancient to 1945
 ARTS 465	ENVIRONMENTAL SYSTEMS II

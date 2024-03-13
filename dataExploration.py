@@ -42,3 +42,5 @@ for c in df['coursename']:
         course_names.append(c)
 
 print(course_names)
+
+print(df['Student name'].nunique().count())
